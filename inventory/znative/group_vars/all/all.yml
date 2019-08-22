@@ -16,7 +16,6 @@ bin_dir: /usr/local/bin
 ## External LB example config
 apiserver_loadbalancer_domain_name: "zcp-local-1365537-seo01.clb.appdomain.cloud"
 loadbalancer_apiserver:
-  address: 169.56.112.80
   port: 8443
 
 ## Internal loadbalancers for apiservers
