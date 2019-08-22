@@ -14,9 +14,9 @@ bin_dir: /usr/local/bin
 
 
 ## External LB example config
-apiserver_loadbalancer_domain_name: "zcp-local-1365537-seo01.clb.appdomain.cloud"
+apiserver_loadbalancer_domain_name: "kubespray-lb-1365537-seo01.clb.appdomain.cloud"
 loadbalancer_apiserver:
-  address: 169.56.107.110
+  address: 169.56.107.107
   port: 8443
 
 ## Internal loadbalancers for apiservers
