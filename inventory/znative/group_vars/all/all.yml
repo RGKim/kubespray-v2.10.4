@@ -14,7 +14,7 @@ bin_dir: /usr/local/bin
 
 
 ## External LB example config
-apiserver_loadbalancer_domain_name: "clb.appdomain.cloud"
+apiserver_loadbalancer_domain_name: "zcp-local-1365537-seo01.clb.appdomain.cloud"
 loadbalancer_apiserver:
   address: zcp-local-1365537-seo01.clb.appdomain.cloud
   port: 8443
